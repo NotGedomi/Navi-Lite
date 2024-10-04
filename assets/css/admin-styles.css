@@ -1,0 +1,29 @@
+.wrap {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.wp-list-table {
+    margin-top: 20px;
+}
+
+.notice {
+    margin: 20px 0;
+}
+
+input[type="text"], input[type="file"] {
+    width: 100%;
+    max-width: 400px;
+}
+
+.button {
+    margin-right: 10px;
+}
